@@ -4,4 +4,7 @@ end
 
 def using_unshift (array, string)
   array.unshift(string)
+  array.unshift("Brooklyn Heights")
 end
+
+def
