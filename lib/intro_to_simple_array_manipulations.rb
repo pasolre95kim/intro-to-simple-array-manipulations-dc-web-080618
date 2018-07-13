@@ -44,5 +44,6 @@ def using_delete(array, string)
 end
 
 def using_delete(array, integer)
-  array.delete(integer)
+  integer = 2
+  delete_element = array.delete(integer)
 end
